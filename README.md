@@ -1,4 +1,4 @@
-# 📊 SaaS J-Görbe esetére kalkulátor
+# 📊 SaaS J-Görbe esetére ÁR és SZÜKSÉGES BEFEKTETÉS kalkulátor
 
 Egy interaktív Streamlit olyan startupok számára, amelyek fejlődése siker esetén J-görbét ír le.
 Segít eladási árat (előfizetési díjat) és szükséges alaptőkét meghatározni, az alábbi tényezők változtatgatásával:
